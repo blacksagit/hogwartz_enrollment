@@ -1,1 +1,79 @@
-<mxfile host="app.diagrams.net" modified="2020-10-13T02:54:52.965Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" version="13.7.9" etag="R1lgGx13yybGN2ZVbk8y" type="github"><diagram id="7jST0wYcQF-_AW4pr88S">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-13T03:21:30.927Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="Wg_oL1y1aRIVyNih-aZj" version="13.7.9" type="github">
+  <diagram id="7jST0wYcQF-_AW4pr88S" name="Page-1">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kf7ckSFYq_Rx6Dh8PF_G-29" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="kf7ckSFYq_Rx6Dh8PF_G-7" target="kf7ckSFYq_Rx6Dh8PF_G-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kf7ckSFYq_Rx6Dh8PF_G-31" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="kf7ckSFYq_Rx6Dh8PF_G-7" target="kf7ckSFYq_Rx6Dh8PF_G-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kf7ckSFYq_Rx6Dh8PF_G-7" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="281.25" y="121.25" width="257.5" height="257.5" as="geometry" />
+        </mxCell>
+        <mxCell id="kf7ckSFYq_Rx6Dh8PF_G-8" value="" style="endArrow=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kf7ckSFYq_Rx6Dh8PF_G-7" target="kf7ckSFYq_Rx6Dh8PF_G-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="270" as="sourcePoint" />
+            <mxPoint x="440" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kf7ckSFYq_Rx6Dh8PF_G-23" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="kf7ckSFYq_Rx6Dh8PF_G-4" target="kf7ckSFYq_Rx6Dh8PF_G-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kf7ckSFYq_Rx6Dh8PF_G-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="314.06" y="154.06" width="191.88" height="191.88" as="geometry" />
+        </mxCell>
+        <mxCell id="kf7ckSFYq_Rx6Dh8PF_G-21" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="kf7ckSFYq_Rx6Dh8PF_G-2" target="kf7ckSFYq_Rx6Dh8PF_G-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kf7ckSFYq_Rx6Dh8PF_G-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="340" y="180" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="kf7ckSFYq_Rx6Dh8PF_G-28" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="kf7ckSFYq_Rx6Dh8PF_G-1" target="kf7ckSFYq_Rx6Dh8PF_G-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kf7ckSFYq_Rx6Dh8PF_G-1" value="Common&lt;br&gt;Domain" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="370" y="210" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kf7ckSFYq_Rx6Dh8PF_G-5" value="Application" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="375" y="160" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kf7ckSFYq_Rx6Dh8PF_G-6" value="Services" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="375" y="320" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kf7ckSFYq_Rx6Dh8PF_G-9" value="API" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="130" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kf7ckSFYq_Rx6Dh8PF_G-10" value="Infrastructures" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="350" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kf7ckSFYq_Rx6Dh8PF_G-11" value="Domain" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="375" y="190" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kf7ckSFYq_Rx6Dh8PF_G-12" value="Services" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="375" y="290" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kf7ckSFYq_Rx6Dh8PF_G-15" value="&lt;span style=&quot;&quot;&gt;Hogwartz.Common.Domain&lt;/span&gt;" style="text;html=1;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="190" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kf7ckSFYq_Rx6Dh8PF_G-16" value="&lt;span&gt;Hogwartz.Enrollment.Domain&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;EnrollmentRequestModel&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;ExceptionsModels&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;IAddEnrollmentService&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;IGetEnrollmentService&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;IDeleteEnrollementService&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;IUpdateEnrollmentService&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="140" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kf7ckSFYq_Rx6Dh8PF_G-22" value="&lt;span&gt;Hogwartz.Enrollment.Application&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;CommandsModels&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;ResponseModels&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;AddEnrollmentService&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;GetEnrollmentService&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;DeleteEnrollementService&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;UpdateEnrollmentService&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="300" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kf7ckSFYq_Rx6Dh8PF_G-24" value="&lt;span&gt;Hogwartz.Enrollment.API&lt;br&gt;&lt;ul&gt;&lt;li&gt;Contollers&lt;/li&gt;&lt;li&gt;AppStartup&lt;/li&gt;&lt;/ul&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="110" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kf7ckSFYq_Rx6Dh8PF_G-27" value="&lt;span&gt;Hogwartz.Infrastructure.DbMemory&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;EnrollmentAdder&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;EnrollmentGetter&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;EnrollmentDeleter&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;EnrollmentUpdater&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Mappers&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="310" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kf7ckSFYq_Rx6Dh8PF_G-32" value="Clean Architecture Driven Domain" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="280" y="40" width="250" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
